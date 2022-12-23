@@ -3,4 +3,6 @@
 ## Algorithms
 
 ### Sorting
-* [Selection Sort](sort/src/main.rs)
+* [Selection Sort](sort/src/selection.rs)
+* [Bubble Sort](sort/src/bubble.rs)
+
