@@ -1,5 +1,7 @@
 # let-us-rust
 
+[![Rust](https://github.com/scopeInfinity/let-us-rust/actions/workflows/rust.yml/badge.svg)](https://github.com/scopeInfinity/let-us-rust/actions/workflows/rust.yml)
+
 ## Algorithms
 
 ### Sorting
