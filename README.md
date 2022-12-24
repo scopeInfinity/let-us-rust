@@ -3,7 +3,7 @@
 ## Algorithms
 
 ### Sorting
-* [Selection Sort](sort/src/selection.rs)
-* [Bubble Sort](sort/src/bubble.rs)
-* [Insertion Sort](sort/src/insertion.rs)
+* [Selection Sort](src/sort/selection.rs)
+* [Bubble Sort](src/sort/bubble.rs)
+* [Insertion Sort](src/sort/insertion.rs)
 
